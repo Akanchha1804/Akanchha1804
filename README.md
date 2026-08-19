@@ -1,190 +1,205 @@
 <div align="center">
 
-# AKANCHHA SINGH
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,100:06B6D4&height=220&section=header&text=AKANCHHA%20SINGH&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20DATA%20ANALYTICS%20%20%E2%80%A2%20%20COMPUTER%20VISION&descAlignY=58&descSize=17&descColor=E5E7EB" width="100%"/>
 
-### `I turn data into systems that can see, learn & decide.`
+### Building intelligent systems from data.
 
-**AI / ML** &nbsp;•&nbsp; **Computer Vision** &nbsp;•&nbsp; **Data Analytics** &nbsp;•&nbsp; **Intelligent Applications**
+I’m a **Computer Science Engineering student** focused on  
+**Machine Learning, Data Analytics, Computer Vision, and AI-powered applications.**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<a href="https://github.com/Akanchha1804">
+  <img src="https://img.shields.io/badge/GitHub-Akanchha1804-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/akanchha-singh/">
+  <img src="https://img.shields.io/badge/LinkedIn-Akanchha%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:akanchha1018@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## `01` — WHO AM I?
+## About
 
-I'm a **Computer Science Engineering student** fascinated by what happens when **data meets intelligence**.
+I enjoy working on problems where **data, machine learning, and software engineering intersect**.
 
-I build projects that go beyond training a model — from **processing raw data and building ML pipelines** to developing **APIs, databases, dashboards, and deployed applications** around them.
+My projects span the complete journey from **raw data → model → application → insight**, including model development, feature engineering, APIs, databases, dashboards, and deployment.
 
-My work sits at the intersection of:
-
-```text
-                 DATA
-                   │
-                   ▼
-          ┌─────────────────┐
-          │  MACHINE        │
-          │  LEARNING       │
-          └────────┬────────┘
-                   │
-            ┌──────┴──────┐
-            ▼             ▼
-       COMPUTER          DATA
-        VISION         ANALYTICS
-            │             │
-            └──────┬──────┘
-                   ▼
-          INTELLIGENT SYSTEMS
-```
+Currently, I’m particularly interested in building **practical AI systems rather than isolated models**.
 
 ---
 
-## `02` — WHAT I BUILD
+## Featured Work
 
-### 🔬 01 / PrognosAI
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **What if machines could tell us when they're going to fail?**
+### 🔬 PrognosAI
 
-An AI-driven predictive maintenance system that analyzes industrial sensor data to estimate **Remaining Useful Life (RUL)** and monitor equipment health.
+**AI-driven Predictive Maintenance**
 
-**Built with**
+Predicts **Remaining Useful Life (RUL)** from industrial sensor data and provides equipment-health monitoring.
 
-`Python` `Scikit-learn` `XGBoost` `FastAPI` `PostgreSQL` `Grafana` `Docker`
+**Stack**
+
+`Python` `Scikit-learn` `XGBoost`  
+`FastAPI` `PostgreSQL` `Grafana` `Docker`
 
 **Focus**
 
-`Machine Learning` · `Feature Engineering` · `REST APIs` · `Databases` · `Monitoring`
+Machine Learning · Feature Engineering · APIs · Monitoring
 
----
+</td>
 
-### 👁️ 02 / Retail Shelf Monitoring
+<td width="50%" valign="top">
 
-> **Teaching a computer to understand what is happening on a supermarket shelf.**
+### 👁️ Retail Shelf Monitoring
 
-A computer vision system using **YOLOv8** to detect products, monitor shelf occupancy, and generate restocking intelligence.
+**Computer Vision for Retail Analytics**
 
-**Built with**
+YOLOv8-based product detection and shelf monitoring with product counting and restocking intelligence.
+
+**Stack**
 
 `Python` `YOLOv8` `OpenCV` `SKU-110K`
 
 **Focus**
 
-`Object Detection` · `Real-Time Tracking` · `Product Counting` · `Retail Analytics`
+Object Detection · Real-Time Vision · Retail Analytics
 
-🌐 **[Live Demo](https://retail-shelf-monitoring.vercel.app)**
+<br>
 
----
+<a href="https://retail-shelf-monitoring.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-### 📊 03 / Customer Intelligence Platform
+</td>
+</tr>
 
-> **Turning customer data into decisions.**
+<tr>
+<td width="50%" valign="top">
 
-An interactive analytics platform designed to uncover customer behavior, patterns, and actionable business insights.
+### 📊 Customer Intelligence Platform
 
-**Built with**
+**Data Analytics & Customer Insights**
 
-`Python` `Pandas` `Data Analytics` `Streamlit`
+An interactive platform for exploring customer behaviour, patterns, and actionable business insights.
 
-🌐 **[Live Demo](https://customer-intelligence-platform-1018.streamlit.app)**
+**Stack**
 
----
+`Python` `Pandas` `Streamlit`
 
-### ✈️ 04 / AI Trip Planner
+**Focus**
 
-An AI-assisted travel planning platform combining a modern frontend, backend services, and generative AI.
+Data Analysis · Visualization · Customer Insights
 
-**Built with**
+<br>
+
+<a href="https://customer-intelligence-platform-1018.streamlit.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-6D5DFB?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✈️ AI Trip Planner
+
+**AI-assisted Travel Planning**
+
+A full-stack travel application combining a React frontend, Django backend, and generative AI.
+
+**Stack**
 
 `React` `Django` `OpenAI API` `JavaScript`
 
----
+**Focus**
 
-### 🍽️ 05 / Epicuria
+Generative AI · APIs · Full-Stack Development
 
-A restaurant web application featuring food discovery and preference-based filtering.
+</td>
+</tr>
+</table>
 
-**Built with**
+### 🍽️ Epicuria
+
+Restaurant web application with food discovery and preference-based filtering.
 
 `HTML` `CSS` `JavaScript`
 
 ---
 
-## `03` — MY TOOLBOX
+## Technical Focus
 
-### AI / Machine Learning
-
-`Python` · `Scikit-learn` · `XGBoost` · `OpenCV` · `YOLO`
-
-### Data & Visualization
-
-`Pandas` · `NumPy` · `PostgreSQL` · `Power BI` · `Grafana`
-
-### Development
-
-`FastAPI` · `Django` · `React` · `JavaScript` · `HTML` · `CSS`
-
-### Engineering & Tools
-
-`Docker` · `Git` · `GitHub` · `Jupyter` · `VS Code`
+<table>
+<tr>
+<td><b>AI / ML</b></td>
+<td>Python · Scikit-learn · XGBoost · OpenCV · YOLO</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>Pandas · NumPy · PostgreSQL · Power BI · Grafana</td>
+</tr>
+<tr>
+<td><b>Development</b></td>
+<td>FastAPI · Django · React · JavaScript · HTML · CSS</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>Docker · Git · GitHub · Jupyter · VS Code</td>
+</tr>
+</table>
 
 ---
 
-## `04` — EXPERIENCE
+## Experience
 
-### Infosys Springboard — Virtual Internship 6.0
-
-**Development of AI-Driven Predictive Maintenance System using Time-Series Sensor Data**
+**Infosys Springboard — Virtual Internship 6.0**  
+*Development of AI-Driven Predictive Maintenance System using Time-Series Sensor Data*
 
 Worked on an end-to-end predictive maintenance solution involving machine learning, data processing, backend APIs, databases, and visualization.
 
-### Decode Labs — AI / Data Internship
+**Decode Labs — AI / Data Internship**
 
-Hands-on experience with practical AI and data-oriented development, including Python, machine learning, and data analysis.
+Hands-on experience with practical AI and data-oriented development using Python, machine learning, and data analysis.
 
-### DRDO
+**DRDO — Training in Computer Vision & AI**  
+*July 2026*
 
-**Training in Computer Vision & AI · July 2026**
-
-### IBM / Coursera
-
-**Python for Data Science, AI & Development**
+**IBM / Coursera — Python for Data Science, AI & Development**
 
 ---
 
-## `05` — CURRENTLY EXPLORING
-
-```text
-        MACHINE LEARNING
-                │
-                ▼
-        COMPUTER VISION
-                │
-                ▼
-        DATA INTELLIGENCE
-                │
-                ▼
-         AI APPLICATIONS
-                │
-                ▼
-        PRODUCTION SYSTEMS
-```
-
-I'm interested in building systems where **models don't just predict — they become part of something useful.**
-
----
-
-## `06` — GITHUB STATS
+## What I'm Exploring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akanchha1804&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+**Machine Learning** &nbsp; → &nbsp;
+**Computer Vision** &nbsp; → &nbsp;
+**Data Intelligence** &nbsp; → &nbsp;
+**AI Applications** &nbsp; → &nbsp;
+**Production Systems**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanchha1804&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+I’m interested in systems where **models don't just predict — they become part of something useful.**
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<!-- GitHub stats and language distribution -->
+
+<img src="https://github-readme-stats.shion.dev/api?username=Akanchha1804&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Akanchha1804&theme=dark&hide_border=true&include_all_commits=false&layout=compact" height="165" />
 
 </div>
 
@@ -192,12 +207,16 @@ I'm interested in building systems where **models don't just predict — they be
 
 <div align="center">
 
-### `Build → Experiment → Learn → Repeat.`
+### Let's build something intelligent.
 
-**Let's build something intelligent.**
+<a href="https://www.linkedin.com/in/akanchha-singh/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Akanchha1804">GitHub</a>
+&nbsp; · &nbsp;
+<a href="mailto:akanchha1018@gmail.com">Email</a>
 
-<br>
+<br><br>
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:akanchha1018@gmail,com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:312E81,100:111827&height=110&section=footer" width="100%"/>
 
 </div>
