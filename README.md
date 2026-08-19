@@ -195,14 +195,13 @@ I’m interested in systems where **models don't just predict — they become pa
 
 <div align="center">
 
-<!-- GitHub stats and language distribution -->
+<img src="https://streak-stats.demolab.com?user=Akanchha1804&theme=github-dark-blue&hide_border=true" width="430" />
 
-<img src="https://github-readme-stats.shion.dev/api?username=Akanchha1804&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Akanchha1804&theme=dark&hide_border=true&include_all_commits=false&layout=compact" height="165" />
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akanchha1804&bg_color=0D1117&color=58A6FF&line=6E40C9&point=58A6FF&area=true&hide_border=true&custom_title=Akanchha%20Singh%20%E2%80%94%20Contribution%20Activity" width="95%" />
 
 </div>
-
 ---
 
 <div align="center">
